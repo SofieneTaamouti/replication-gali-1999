@@ -1,4 +1,4 @@
-A Replication Study in Macroeconomics
+A Replication Study of Gali (1999)
 ======
 
 #### Galí, Jordi. 1999. "Technology, Employment, and the Business Cycle: Do Technology Shocks Explain Aggregate Fluctuations?"
