@@ -1,4 +1,4 @@
-Economic article replication.
+A replication study in Macroeconomics
 ======
 
 #### Galí, Jordi. 1999. "Technology, Employment, and the Business Cycle: Do Technology Shocks Explain Aggregate Fluctuations?"
