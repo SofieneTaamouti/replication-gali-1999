@@ -12,7 +12,7 @@ We used the Federal Reserve Bank of St. Louis data for US measures of GDP, hours
 
 ## Sources
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Econometric package: https://github.com/ambropo/VAR-Toolbox
+Econometrics tools for VAR and IRF estimation under long-run identification: https://github.com/ambropo/VAR-Toolbox
 
 US Data: https://fred.stlouisfed.org/
 
