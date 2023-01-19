@@ -14,11 +14,14 @@ We used the Federal Reserve Bank of St. Louis data for US measures of GDP, hours
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Econometrics tools for VAR and IRF estimation under long-run identification: https://github.com/ambropo/VAR-Toolbox
 
-US Data: https://fred.stlouisfed.org/
+US Data: 
+https://fred.stlouisfed.org/
 
-OECD Data: https://stats.oecd.org/
+OECD Data: 
+https://stats.oecd.org/
 
-Paper: https://www.aeaweb.org/articles?id=10.1257/aer.89.1.249
+Paper: 
+https://www.aeaweb.org/articles?id=10.1257/aer.89.1.249
 
 Galí, Jordi. 1999. "Technology, Employment, and the Business Cycle: Do Technology Shocks Explain Aggregate Fluctuations?" American Economic Review, 89 (1): 249-271. 
 
